@@ -1,0 +1,22 @@
+body
+{
+    background-image: url(numbers-background-7692384.jpg);
+    background-repeat: repeat-x;
+    background-color: aliceblue;
+}
+
+input {
+    width: 200px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+#answer,#tries
+{
+    height: 50px;
+}
